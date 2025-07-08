@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C7Kca+8LJbQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marat2\\Source\\Repos\\TestProjectMarat\\MaratApiProject\\MaratApiProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marat2\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Marat2\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
